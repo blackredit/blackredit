@@ -131,28 +131,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blackredit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=blackredit&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
