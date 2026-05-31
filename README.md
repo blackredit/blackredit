@@ -2,7 +2,7 @@
 
 # Hey there, I'm **blackredit** 👋
 
-<!-- Optional: Add a short tagline about yourself -->
+
 > *Passionate developer building cool things across the full stack*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
